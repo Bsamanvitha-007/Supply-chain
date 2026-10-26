@@ -1,0 +1,6 @@
+{
+  "name": "Supply Chain Optimization Using Dynamic Programming",
+  "description": "Enterprise supply chain optimization suite demonstrating 0/1 Knapsack, Floyd-Warshall, Optimal BST, and Held-Karp TSP algorithms in e-commerce logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
